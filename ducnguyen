@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+    <title>VILAF</title>
+    <link href='css/bootstrap.css' rel='stylesheet'>
+    <link href='css/fonts.css' rel='stylesheet'>
+    <link href='css/style.css' rel='stylesheet'>
+    <link href='css/swiper.min.css' rel='stylesheet'>
+    <link href='css/font-awesome.min.css' rel='stylesheet'>
+    <script src='js/jquery-2.2.3.min.js'></script>
+  </head>
+  <body>
+    <header>
+      <div class='top-header'>
+        <div class='container no-padding'>
+          <div class='row'>
+            <div class='col-xs-6 col-sm-6'>
+              <div class='logo'>
+                <a href='index.html'>
+                  <img alt='' class='img-responsive' src='images/logo.png'>
+                </a>
+              </div>
+            </div>
+            <!-- end logo -->
+            <!-- end col-sm-6 -->
+            <div class='col-xs-6 col-sm-6'>
+              <a class='contact' href='#'>
+                CONTACT US
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- end col-sm-6 -->
+      <!-- end row -->
+      <!-- end container -->
+      <!-- end top-heaer -->
+      <div class='menu'>
+        <div class='container no-padding'>
+          <div class='box-menu'>
+            <ul>
+              <li class='pro-menu'>
+                <a href='#'>Meet Us</a>
+                <ul class='kid-menu'>
+                  <li>
+                    <a href='#'>About Us</a>
+                  </li>
+                  <li>
+                    <a href='#'>Offices</a>
+                  </li>
+                  <li>
+                    <a href='#'>Independent Recognition</a>
+                  </li>
+                  <li>
+                    <a href='#'>Notable Recent Projects</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='our-people.html'>Our People</a>
+              </li>
+              <li>
+                <a href='our-people.html'>Awards</a>
+              </li>
+              <li class='pro-menu'>
+                <a href='#'>Practices</a>
+                <ul class='kid-menu'>
+                  <li>
+                    <a href='#'>Capital Markets</a>
+                  </li>
+                  <li>
+                    <a href='#'>Corporate and M&A</a>
+                  </li>
+                  <li>
+                    <a href='#'>Dispute Resolution</a>
+                  </li>
+                  <li>
+                    <a href='#'>Finance</a>
+                  </li>
+                  <li>
+                    <a href='#'>Real Estate</a>
+                  </li>
+                  <li>
+                    <a href='#'>Tax</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='#'>Industry Experiences</a>
+                <ul class='kid-menu'>
+                  <li>
+                    <a href='#'>Banking</a>
+                  </li>
+                  <li>
+                    <a href='#'>Energy</a>
+                  </li>
+                  <li>
+                    <a href='#'>Health Care</a>
+                  </li>
+                  <li>
+                    <a href='#'>Hospitality</a>
+                  </li>
+                  <li>
+                    <a href='#'>Infrastructure</a>
+                  </li>
+                  <li>
+                    <a href='#'>Insurance</a>
+                  </li>
+                  <li>
+                    <a href='#'>Shipping & Logistics</a>
+                  </li>
+                  <li>
+                    <a href='#'>Telecommunications</a>
+                  </li>
+                  <li>
+                    <a href='#'>Trade & Retail</a>
+                  </li>
+                </ul>
+              </li>
+              <li class='pro-menu'>
+                <a href='#'>News & Legal Updates</a>
+                <ul class='kid-menu'>
+                  <li>
+                    <a href='new.html'>Vilaf Newsletter</a>
+                  </li>
+                  <li>
+                    <a href='new.html'>Corporate and M&A</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <div class='search'>
+                  <input placeholder='Search..' type='text'>
+                  <button>
+                    <i class='fa fa-search'></i>
+                  </button>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- end search -->
+      <!-- end menu -->
+      <div class='mobile-menu'>
+        <div class='container no-padding'>
+          <div class='row'>
+            <div class='col-xs-6 col-sm-6'>
+              <p>Menu</p>
+            </div>
+            <!-- end col-sm-6 -->
+            <div class='col-xs-6 col-sm-6'>
+              <div class='button1'>
+                <i class='fa fa-bars'></i>
+              </div>
+            </div>
+          </div>
+          <!-- end row -->
+          <div class='box-menu'>
+            <ul>
+              <li>
+                <a href='#'>Meet Us</a>
+                <ul>
+                  <li>
+                    <a href='#'>About Us</a>
+                  </li>
+                  <li>
+                    <a href='#'>Offices</a>
+                  </li>
+                  <li>
+                    <a href='#'>Independent Recognition</a>
+                  </li>
+                  <li>
+                    <a href='#'>Notable Recent Projects</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='our-people.html'>Our People</a>
+              </li>
+              <li>
+                <a href='our-people.html'>Awards</a>
+              </li>
+              <li>
+                <a href='#'>Practices</a>
+                <ul>
+                  <li>
+                    <a href='#'>Capital Markets</a>
+                  </li>
+                  <li>
+                    <a href='#'>Corporate and M&A</a>
+                  </li>
+                  <li>
+                    <a href='#'>Dispute Resolution</a>
+                  </li>
+                  <li>
+                    <a href='#'>Finance</a>
+                  </li>
+                  <li>
+                    <a href='#'>Real Estate</a>
+                  </li>
+                  <li>
+                    <a href='#'>Tax</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='#'>Industry Experiences</a>
+                <ul>
+                  <li>
+                    <a href='#'>Banking</a>
+                  </li>
+                  <li>
+                    <a href='#'>Energy</a>
+                  </li>
+                  <li>
+                    <a href='#'>Health Care</a>
+                  </li>
+                  <li>
+                    <a href='#'>Hospitality</a>
+                  </li>
+                  <li>
+                    <a href='#'>Infrastructure</a>
+                  </li>
+                  <li>
+                    <a href='#'>Insurance</a>
+                  </li>
+                  <li>
+                    <a href='#'>Shipping & Logistics</a>
+                  </li>
+                  <li>
+                    <a href='#'>Telecommunications</a>
+                  </li>
+                  <li>
+                    <a href='#'>Trade & Retail</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href='#'>News & Legal Updates</a>
+                <ul>
+                  <li>
+                    <a href='new.html'>Vilaf Newsletter</a>
+                  </li>
+                  <li>
+                    <a href='new.html'>Corporate and M&A</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <div class='search'>
+                  <input placeholder='Search..' type='text'>
+                  <button>
+                    <i class='fa fa-search'></i>
+                  </button>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- end search -->
+    <!-- end mobile-menu -->
+    <div class='clearfix'></div>
+    <div class='banner'>
+      <div class='container no-padding'>
+        <div class='box-banner'>
+          <div class='swiper-container'>
+            <div class='swiper-wrapper'>
+              <div class='swiper-slide bn1'>
+                <div class='bgr-hover'>
+                  <h4>Global Law Experts - 2012</h4>
+                  <p>Award of the Year 2011</p>
+                </div>
+              </div>
+              <div class='swiper-slide bn2'>
+                <div class='bgr-hover'>
+                  <h4>Global Law Experts - 2012</h4>
+                  <p>Award of the Year 2011</p>
+                </div>
+              </div>
+              <div class='swiper-slide bn3'>
+                <div class='bgr-hover'>
+                  <h4>Global Law Experts - 2012</h4>
+                  <p>Award of the Year 2011</p>
+                </div>
+              </div>
+              <div class='swiper-slide bn4'>
+                <div class='bgr-hover'>
+                  <h4>Global Law Experts - 2012</h4>
+                  <p>Award of the Year 2011</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end swiper-contaier -->
+          <!-- end swiper-container -->
+          <div class='swiper-pagination swiper-pagination-white'></div>
+        </div>
+      </div>
+    </div>
+    <!-- end box-banner -->
+    <!-- end container -->
+    <!-- end banner\ -->
+    <div class='clearfix'></div>
+    <div class='bre'>
+      <div class='container no-padding'>
+        <ul>
+          <li>
+            <a href='#'>Home</a>
+          </li>
+          <li>
+            <i class='fa fa-caret-right'></i>
+          </li>
+          <li>
+            <a>News & Legal Updates</a>
+          </li>
+          <li>
+            <i class='fa fa-caret-right'></i>
+          </li>
+          <li>
+            <a>Vilaf Newsletter</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <!-- end container -->
+    <!-- end bre -->
+    <div class='clearfix'></div>
+    <div class='products'>
+      <div class='container no-padding'>
+        <div class='row'>
+          <div class='col-xs-12 col-sm-8'>
+            <div class='col-xs-12 col-sm-3'>
+              <div class='newsletter'>
+                <div class='nlt-pro'>
+                  <a href='#'>Select Newsletter</a>
+                  <div class='ntl-hv'>
+                    <ul>
+                      <li>
+                        <a href='#'>Newsletter 2016</a>
+                      </li>
+                      <li>
+                        <a href='#'>Newsletter 2015</a>
+                      </li>
+                      <li>
+                        <a href='#'>Newsletter 2014</a>
+                      </li>
+                      <li>
+                        <a href='#'>Newsletter 2013</a>
+                      </li>
+                      <li>
+                        <a href='#'>Newsletter 2012</a>
+                      </li>
+                      <li>
+                        <a href='#'>Newsletter 2011</a>
+                      </li>
+                      <li>
+                        <a href='#'>Newsletter 2010</a>
+                      </li>
+                      <li>
+                        <a href='#'>Newsletter 2009</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- end nlt-hv -->
+                </div>
+                <!-- end nlt-pro -->
+              </div>
+              <!-- end newsletter -->
+            </div>
+            <div class='clearfix'></div>
+            <div class='blog'>
+              <h4>Newsletter No. 179</h4>
+              <p class='color'>Newsletter Winter 2015 <b>Regulations on Investment</b></p>
+              <p>New Investment Decree simplifying investment procedures</p>
+              <p>New Decree on management of State capital regulating the sale of State equity interests</p>
+              <p>New Construction Decree regulating the management of construction projects based on sources of capital funding</p>
+              <p>New Decree on the real estate business guiding exemption from the minimum capital requirement for real estate business and procedure to transfer real estate projects</p>
+              <a class='download' href='#'>Download</a>
+              <div class='clearfix'></div>
+            </div>
+            <!-- end blog -->
+            <div class='blog'>
+              <h4>Newsletter No. 178</h4>
+              <p class='color'><b>Legal Framework for Developing and Financing Projects Taking Shape</b></p>
+              <p>New Decree on Selection of Investors subject PPP projects to competitive selection of investors;</p>
+              <p>New BOT Power Projects Circular sets forth cases where direct appointment of investor is permitted;</p>
+              <p>
+                | New Legal Opinions Decree narrows the documents eligible for the Ministry of Justice legal opinions in PPP projects and government guaranteed loan;
+              </p>
+              <p>New Constructions Contracts Circular expands the types projects the construction of which is subject to its governance;</p>
+              <p>New Bank Guarantee Circular provides conditions for a bank to issue a guarantee for a residential project developer's obligations to future house buyers.</p>
+              <a class='download' href='#'>Download</a>
+              <div class='clearfix'></div>
+            </div>
+            <!-- end blog -->
+          </div>
+          <!-- end col-sm-8 -->
+          <div class='col-xs-12 col-sm-4'>
+            <div class='left-product'>
+              <div class='mega'>
+                <div class='swiper-containers'>
+                  <div class='swiper-wrapper'>
+                    <div class='swiper-slide mg1'></div>
+                    <div class='swiper-slide mg2'></div>
+                    <div class='swiper-slide mg3'></div>
+                    <div class='swiper-slide mg4'></div>
+                  </div>
+                </div>
+              </div>
+              <!-- end mega -->
+              <div class='clearfix'></div>
+              <div class='box-fanance'>
+                <h4>
+                  <a href='#'>News</a>
+                </h4>
+                <ul>
+                  <li>
+                    <a href='#'>As M&As rise, legal issues pose challenge</a>
+                  </li>
+                  <li>
+                    <a href='#'>VILAF won Best M&A Vietnam Law Firm of the Year Award</a>
+                  </li>
+                  <li>
+                    <a href='#'>VILAF scores at the ALB SE Asia Law Awards 2016</a>
+                  </li>
+                  <li>
+                    <a href='#'>4th Asian Regional Conference,  WLG</a>
+                  </li>
+                  <li>
+                    <a href='#'>VILAF won multiple awards at the IFLR 2016 ceremony</a>
+                  </li>
+                  <li>
+                    <a href='#'>VILAF Names 5 New Counsels</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end box-fanace -->
+    <!-- end col-sm-4 -->
+    <!-- end row -->
+    <!-- end container -->
+    <!-- end products -->
+    <div class='clearfix'></div>
+    <div class='clearfix'></div>
+    <footer>
+      <div class='container no-padding'>
+        <div class='box-footer'>
+          <div class='row'>
+            <div class='col-xs-12 col-sm-5'>
+              <p>
+                Copyright © 2011 <b>Vilaf</b> . All Rights Reserved.
+              </p>
+            </div>
+            <!-- end col-sm-6 -->
+            <div class='col-xs-12 col-sm-7'>
+              <ul>
+                <li>
+                  <a href='#'>Home</a>
+                </li>
+                <li>
+                  <a href='#'>Links</a>
+                </li>
+                <li>
+                  <a href='#'>Careers</a>
+                </li>
+                <li>
+                  <a href='#'>Download</a>
+                </li>
+                <li>
+                  <a href='#'>Sitemap</a>
+                </li>
+                <li>
+                  <a href='#'>Terms of Use</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- end colsm-6 -->
+    <!-- end row -->
+    <!-- end container -->
+    <script src='js/bootstrap.min.js'></script>
+    <script src='js/swiper.query.min.js'></script>
+    <script src='js/main.js'></script>
+  </body>
+</html>
